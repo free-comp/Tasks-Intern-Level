@@ -1,0 +1,16 @@
+/home/alisa/Документы/GB/Intern01/Task02/bin/Debug/net6.0/Task02
+/home/alisa/Документы/GB/Intern01/Task02/bin/Debug/net6.0/Task02.deps.json
+/home/alisa/Документы/GB/Intern01/Task02/bin/Debug/net6.0/Task02.runtimeconfig.json
+/home/alisa/Документы/GB/Intern01/Task02/bin/Debug/net6.0/Task02.dll
+/home/alisa/Документы/GB/Intern01/Task02/bin/Debug/net6.0/ref/Task02.dll
+/home/alisa/Документы/GB/Intern01/Task02/bin/Debug/net6.0/Task02.pdb
+/home/alisa/Документы/GB/Intern01/Task02/obj/Debug/net6.0/Task02.GlobalUsings.g.cs
+/home/alisa/Документы/GB/Intern01/Task02/obj/Debug/net6.0/Task02.csproj.AssemblyReference.cache
+/home/alisa/Документы/GB/Intern01/Task02/obj/Debug/net6.0/Task02.GeneratedMSBuildEditorConfig.editorconfig
+/home/alisa/Документы/GB/Intern01/Task02/obj/Debug/net6.0/Task02.AssemblyInfoInputs.cache
+/home/alisa/Документы/GB/Intern01/Task02/obj/Debug/net6.0/Task02.AssemblyInfo.cs
+/home/alisa/Документы/GB/Intern01/Task02/obj/Debug/net6.0/Task02.csproj.CoreCompileInputs.cache
+/home/alisa/Документы/GB/Intern01/Task02/obj/Debug/net6.0/Task02.dll
+/home/alisa/Документы/GB/Intern01/Task02/obj/Debug/net6.0/ref/Task02.dll
+/home/alisa/Документы/GB/Intern01/Task02/obj/Debug/net6.0/Task02.pdb
+/home/alisa/Документы/GB/Intern01/Task02/obj/Debug/net6.0/Task02.genruntimeconfig.cache
