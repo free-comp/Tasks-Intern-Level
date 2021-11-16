@@ -18,11 +18,11 @@ string FirstA = Console.ReadLine();
 Console.WriteLine("Введите второе число: ");
 string FirstB = Console.ReadLine();
 
-// double a = Convert.ToDouble(FirstA);
-// double b = Convert.ToDouble(FirstB);
+double a = Convert.ToDouble(FirstA);
+double b = Convert.ToDouble(FirstB);
 
-double A = Max(Convert.ToDouble(FirstA), Convert.ToDouble(FirstB));
-double B = Min(Convert.ToDouble(FirstA), Convert.ToDouble(FirstB));
+double A = Max(a, b);
+double B = Min(a, b);
 
 Console.WriteLine($"Наибольшее число равно: {A}");
 Console.WriteLine($"Наименьшее число равно: {B}");
