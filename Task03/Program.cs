@@ -14,15 +14,13 @@ double Min(double x1, double x2)
 }
 
 Console.WriteLine("Введите первое число: ");
-string FirstA = Console.ReadLine();
+double FirstA = Convert.ToDouble(Console.ReadLine());
+
 Console.WriteLine("Введите второе число: ");
-string FirstB = Console.ReadLine();
+double FirstB = Convert.ToDouble(Console.ReadLine());
 
-double a = Convert.ToDouble(FirstA);
-double b = Convert.ToDouble(FirstB);
-
-double A = Max(a, b);
-double B = Min(a, b);
+double A = Max(FirstA, FirstB);
+double B = Min(FirstA, FirstB);
 
 Console.WriteLine($"Наибольшее число равно: {A}");
 Console.WriteLine($"Наименьшее число равно: {B}");
