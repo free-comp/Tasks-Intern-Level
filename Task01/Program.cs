@@ -7,10 +7,10 @@ int Square(int x)
 }
 
 Console.Write("Введите целое число: ");
-string Number = Console.ReadLine();
+//string Number = Console.ReadLine();
 //int numb = Convert.ToInt32(Number);
 
-int numb = Square(Convert.ToInt32(Number));
+int numb = Square(Convert.ToInt32(Console.ReadLine()));
 
 Console.WriteLine($"Квадрат введенного числа равен: {numb}");
 
