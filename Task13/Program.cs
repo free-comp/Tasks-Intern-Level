@@ -19,7 +19,6 @@ Console.WriteLine($"Если удалить вторую цифру из дан�
 // char [] mas = Numb.ToCharArray();
 // char n1 = mas[0];
 // char n2 = mas[2];
-
 // string N = string.Concat(n1,n2);
 // int rezult = Convert.ToInt32(N);
 // Console.WriteLine($"Если удалить вторую цифру из данного числа, получим новое число, равное: {rezult}");
